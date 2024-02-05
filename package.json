@@ -11,12 +11,12 @@
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.10.0",
+    "fractional": "^1.0.0",
     "parcel": "^2.10.0"
   },
   "dependencies": {
     "core-js": "^3.33.0",
     "npm": "^10.2.4",
-    "fractional": "^1.0.0",
     "regenerator-runtime": "^0.14.0"
   }
 }
