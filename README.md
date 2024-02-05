@@ -6,7 +6,7 @@ Recipe application allows users to search/upload recipes!
 There are over 1M recipe to search, and you can even add yours with full control (create,upload,remove).
 ## Purpose
 
-The purpose of this project is to implement my new learned architecture (MVC) and applay almost everything i have learned in Javascript before moving to another technology.
+The purpose of this project is to implement my new learned architecture (MVC) and apply almost everything I have learned in Javascript, before moving to another technology.
 
 ## Technologies Used
 
