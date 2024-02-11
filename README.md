@@ -19,6 +19,7 @@ This project uses the following technologies:
   - MVC architecture (model-view-controller)
   - asynchronous code
   - Locale storage
+- Parcel for bundling
 
 ## Contributing
 
