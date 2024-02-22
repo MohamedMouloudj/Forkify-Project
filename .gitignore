@@ -1,5 +1,4 @@
 node_modules
 dist
 .parcel-cache
-./forkify-flowchart-part-2.png
-./forkify-flowchart-part-1.png
+flow-chart-parts

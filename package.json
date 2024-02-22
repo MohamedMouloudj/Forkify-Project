@@ -5,7 +5,7 @@
   "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --dist-dir ./dist"
+    "build": "parcel build index.html --dist-dir ./dist "
   },
   "author": "Mohamed Mouloudj",
   "license": "ISC",
@@ -16,7 +16,7 @@
   "dependencies": {
     "core-js": "^3.33.0",
     "npm": "^10.2.4",
-    "fractional": "^1.0.0",
-    "regenerator-runtime": "^0.14.0"
+    "regenerator-runtime": "^0.14.0",
+    "fractional": "^1.0.0"
   }
 }
